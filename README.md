@@ -1,10 +1,10 @@
-##Author
+## Author
 Skachko Anton
 
 Belarus
 
 BSUIR - FCD - PMS, 113802
 
-##History
+## History
 
 1 year Python develop
